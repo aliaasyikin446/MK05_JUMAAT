@@ -1,0 +1,26 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.profile-img {
+  width: 75%; 
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card-title {
+  color: #362e12;
+}
+
+.btn-primary {
+  background-color: #69581ab6;
+  border: none;
+  transition: 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #69581ab6;
+}
